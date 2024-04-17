@@ -16,6 +16,3 @@ split - głowna metoda odpowiedzialna za logikę rozdzielania produków w koszyk
 
 logika mojego algorytmu polega na znalezieniu dla danego zostawu produktów w koszyku najczęsciej pojawiającej się metody dostawy(priotytet) a nastepnie dodanie tej metody do mapy jako klucz oraz dodanie wszystkich produktów które mogą być wysłane w ten sposob jako wartość.Następnie powtarzam czynność obliczenia priorytetu,ale dla koszyka bez produków które dodałem wcześniej.
 
-#3 Przemyślenia 
-
-Mam świadomość niedoskonałości mojego kodu sam algorytm nie jest napisny wydajnie a tesów jest mało,wynikało to bardziej z braku czasu,jednak mam nadzieję że rozważą państwo moją kandydaturę na to stanowsko :) 
